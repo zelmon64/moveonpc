@@ -1,0 +1,24 @@
+%YAML:1.0
+
+# calibration data for PS3 Move motion controller
+
+
+# accelerometers
+acc:
+    xmin: -4400
+    xmax:  4400
+    ymin: -4580
+    ymax:  4170
+    zmin: -4570
+    zmax:  4200
+
+# magnetometers
+mag:
+    xmin:  -184
+    xmax:   104
+    ymin:  -251
+    ymax:    43
+    zmin:  -190
+    zmax:    93
+
+# gyroscopes

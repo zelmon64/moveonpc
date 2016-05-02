@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = ".MoveManager", ".MoveManager.vcxproj", "{B755AD10-0F2C-4363-A9FE-70BAB6BF9350}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "example", "example\example.vcxproj", "{79F6A6A0-25B3-4417-B6D5-0CBD7B710720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B755AD10-0F2C-4363-A9FE-70BAB6BF9350}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B755AD10-0F2C-4363-A9FE-70BAB6BF9350}.Debug|Win32.Build.0 = Debug|Win32
+		{B755AD10-0F2C-4363-A9FE-70BAB6BF9350}.Release|Win32.ActiveCfg = Release|Win32
+		{B755AD10-0F2C-4363-A9FE-70BAB6BF9350}.Release|Win32.Build.0 = Release|Win32
+		{79F6A6A0-25B3-4417-B6D5-0CBD7B710720}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79F6A6A0-25B3-4417-B6D5-0CBD7B710720}.Debug|Win32.Build.0 = Debug|Win32
+		{79F6A6A0-25B3-4417-B6D5-0CBD7B710720}.Release|Win32.ActiveCfg = Release|Win32
+		{79F6A6A0-25B3-4417-B6D5-0CBD7B710720}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
