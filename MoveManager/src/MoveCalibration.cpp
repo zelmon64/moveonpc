@@ -1,7 +1,7 @@
-#include "MovePrecompiled.h"
-#include "MoveCalibration.h"
-#include "simplex.h"
-#include "IniFile.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveCalibration.h"
+#include "../include/simplex.h"
+#include "../include/IniFile.h"
 
 using namespace std;
 

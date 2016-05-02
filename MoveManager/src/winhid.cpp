@@ -1,4 +1,4 @@
-#include "MovePrecompiled.h"
+#include "../include/MovePrecompiled.h"
 
 #ifdef WIN32
 // Playstation Move on the PC
@@ -22,7 +22,7 @@
 #include <windows.h>
 #include <setupapi.h>
 
-#include "moveonpc.h"
+#include "../include/moveonpc.h"
 
 // only pointers to this type are used, it doesn't matter what type it really is
 typedef struct {} usb_dev_handle;

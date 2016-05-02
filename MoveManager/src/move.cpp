@@ -9,12 +9,12 @@
    to help kill people, sorry.
 */
 
-#include "MovePrecompiled.h"
+#include "../include/MovePrecompiled.h"
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "moveonpc.h"
+#include "../include/moveonpc.h"
 
 #define FALSE 0
 #define TRUE 1

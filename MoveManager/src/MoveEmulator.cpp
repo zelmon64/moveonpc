@@ -1,6 +1,6 @@
-#include "MovePrecompiled.h"
-#include "MoveEmulator.h"
-#include "IniFile.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveEmulator.h"
+#include "../include/IniFile.h"
 
 using namespace std;
 

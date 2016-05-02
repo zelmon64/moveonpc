@@ -1,5 +1,5 @@
-#include "MovePrecompiled.h"
-#include "MoveController.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveController.h"
 
 namespace Move
 {

@@ -1,6 +1,6 @@
-#include "MovePrecompiled.h"
-#include "MoveRawCalibration.h"
-#include "IniFile.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveRawCalibration.h"
+#include "../include/IniFile.h"
 
 using namespace std;
 

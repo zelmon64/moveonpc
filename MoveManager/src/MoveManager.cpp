@@ -1,7 +1,7 @@
-#include "MovePrecompiled.h"
-#include "MoveManager.h"
-#include "moveonpc.h"
-#include "MoveRawCalibration.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveManager.h"
+#include "../include/moveonpc.h"
+#include "../include/MoveRawCalibration.h"
 
 namespace Move
 {

@@ -1,5 +1,5 @@
-#include "MovePrecompiled.h"
-#include "inifile.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/inifile.h"
 
 using namespace std;
 

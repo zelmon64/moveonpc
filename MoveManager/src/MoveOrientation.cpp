@@ -1,5 +1,5 @@
-#include "MovePrecompiled.h"
-#include "MoveOrientation.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/MoveOrientation.h"
 
 
 namespace Move

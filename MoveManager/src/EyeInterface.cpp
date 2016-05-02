@@ -1,5 +1,5 @@
-#include "MovePrecompiled.h"
-#include "EyeInterface.h"
+#include "../include/MovePrecompiled.h"
+#include "../include/EyeInterface.h"
 
 namespace Eye
 {
